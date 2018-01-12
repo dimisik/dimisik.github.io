@@ -1,0 +1,42 @@
+	<style>
+		body {
+			margin:0;
+			padding:0;
+			background: white;
+			overflow: hidden;
+		}
+		canvas {
+			margin:auto;
+		}
+		#gameTitle {
+			/*left: 50%;*/
+			/*position: fixed;*/
+			color: #181fe2;
+			font-family: "Great Vibes", cursive;
+			font-size: 165px;
+			/*line-height: 160px;*/
+			font-weight: normal;
+			margin-top: 40px;
+			text-align: center;
+			text-shadow: 0 1px 1px #fff; 
+		}
+		#gameDescription {
+			color: #000000;
+			font-family: "Times New Roman", bold;
+			font-size: 30px;
+
+		}
+		#gameDiv {
+		   /* top: 50%;
+		    left: 50%;
+		    width:30em;
+		    height:18em;
+		    margin-top: -9em; set to a negative number 1/2 of your height
+		    margin-left: -15em; *set to a negative number 1/2 of your width
+		    border: 1px solid #ccc;
+		    background-color: #f3f3f3;
+		    position:fixed;
+		    text-align: center;*/
+		}
+
+	</style>
