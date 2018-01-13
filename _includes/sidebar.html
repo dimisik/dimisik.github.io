@@ -1,0 +1,43 @@
+<style>
+mark{color:white;}
+</style>
+
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+    </div>
+
+
+<small>
+Pavlos Athanasios Apostolopoulos<br>
+Ph.D. Student<br>        
+<a href="http://www.ece.unm.edu/"><ins>Department of Electrical and Computer Engineering</ins></a><br>
+<a href="http://www.unm.edu/"><ins>University of New Mexico</ins></a><br>
+Albuquerque, New Mexico, 87131, USA<br>
+Phone: (505) 659-1174<br>
+E-address: <a href="mailto:pavlosapost@unm.edu"><ins>pavlosapost@unm.edu</ins></a><br>
+</small>
+<br>
+<br>
+<br>
+
+    <nav class="sidebar-nav">
+      <a class="sidebar-nav-item{% if page.url == site.url %} active{% endif %}" href="{{ site.url }}">Home</a>
+      {% comment %}
+        The code below dynamically generates a sidebar nav of pages with
+        `layout: page` in the front-matter. See readme for usage.
+      {% endcomment %}
+
+      {% assign pages_list = site.pages %}
+      {% for node in pages_list %}
+        {% if node.title != null %}
+          {% if node.layout == "page" %}
+            <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+    </nav>
+
+    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+  </div>
+</div>

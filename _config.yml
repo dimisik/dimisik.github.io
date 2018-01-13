@@ -1,0 +1,39 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+#relative_permalinks: true
+
+# Setup
+title:            Pavlos Athanasios Apostolopoulos
+tagline:          'Personal website'
+description:      ''
+url:              https://PavlosApost.github.io
+baseurl:          /
+
+author:
+  name:           'Pavlos Athanasios Apostolopoulos'
+  url:            https://github.com/PavlosApost
+
+# Site Settings
+paginate:         7
+excerpt_separator: <!--excerpt_ends-->
+
+#Plugins
+whitelist:        []
+plugins:             [jekyll-paginate]
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/PavlosApost/PavlosApost.github.io
+
+# Collections
+collections:
+    supplements:
+        output: true
+    projects:
+        output: false
