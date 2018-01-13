@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <a href="file://index.html">Publications</a> 
+title: <a href='./index.html'>Publications</a> 
 ---
 
 
