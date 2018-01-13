@@ -1,5 +1,4 @@
 ---
 layout: default
-title: Skills
+title: <a href="index.html">Skills</a> 
 ---
-{% include index.html %}
