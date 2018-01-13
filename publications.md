@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Honors & Awards
+title: <a href="index.html">Honors & Awards</a> 
 ---
 
 
