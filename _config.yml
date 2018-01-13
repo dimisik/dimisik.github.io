@@ -7,15 +7,15 @@ permalink:        pretty
 #relative_permalinks: true
 
 # Setup
-title:            Pavlos Athanasios Apostolopoulos
+title:            Dimitrios Sikeridis
 tagline:          'Personal website'
 description:      ''
-url:              https://PavlosApost.github.io
+url:              https://dimisik.github.io
 baseurl:          /
 
 author:
-  name:           'Pavlos Athanasios Apostolopoulos'
-  url:            https://github.com/PavlosApost
+  name:           'Dimitrios Sikeridis'
+  url:            https://github.com/dimisik
 
 # Site Settings
 paginate:         7
@@ -29,7 +29,7 @@ plugins:             [jekyll-paginate]
 version:          2.1.0
 
 github:
-  repo:           https://github.com/PavlosApost/PavlosApost.github.io
+  repo:           https://github.com/dimisik/dimisik.github.io
 
 # Collections
 collections:
