@@ -68,10 +68,10 @@ html {
 @media (min-width: 48em) {
   .sidebar {
     position: fixed;
-    top: 2rem;
+    top: 0;
     left: 0;
     bottom: 0;
-    width: 16rem;
+    width: 18rem;
     text-align: left;
   }
 }
