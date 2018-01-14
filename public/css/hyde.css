@@ -68,7 +68,7 @@ html {
 @media (min-width: 48em) {
   .sidebar {
     position: fixed;
-    top: 0;
+    top: 2rem;
     left: 0;
     bottom: 0;
     width: 16rem;
