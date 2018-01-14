@@ -62,8 +62,8 @@ html {
 .sidebar {
   text-align: center;
   padding: 2rem 1rem;
-  color: #000;
-  background-color:  #FFC300 ;
+  color: rgba(255,255,255,.5);
+  background-color: #63666a;
 }
 @media (min-width: 48em) {
   .sidebar {
@@ -71,19 +71,19 @@ html {
     top: 0;
     left: 0;
     bottom: 0;
-    width: 14rem;
+    width: 18rem;
     text-align: left;
   }
 }
 
 /* Sidebar links */
 .sidebar a {
-  color: #000;
+  color: #fff;
 }
 
 /* About section */
 .sidebar-about h1 {
-  color: #000;
+  color: #fff;
   margin-top: 0;
   font-family: "Abril Fatface", serif;
   font-size: 2rem;
@@ -91,12 +91,12 @@ html {
 }
 
 a.sidebar-icon {
-    color: rgba(0,0,0,.5);
+    color: rgba(255,255,255,.5);
 }
 
 a.sidebar-icon:hover,
 a.sidebar-icon:focus {
-    color: #000;
+    color: #fff;
 }
 
 
