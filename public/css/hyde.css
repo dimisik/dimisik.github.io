@@ -71,7 +71,7 @@ html {
     top: 0;
     left: 0;
     bottom: 0;
-    width: 18rem;
+    width: 15rem;
     text-align: left;
   }
 }
@@ -91,7 +91,7 @@ html {
 }
 
 a.sidebar-icon {
-    color: rgba(255,255,255,.5);
+    color: #fff;
 }
 
 a.sidebar-icon:hover,
