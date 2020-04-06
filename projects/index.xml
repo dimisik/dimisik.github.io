@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>⚙️ Research Projects on Dimitris Sikeridis</title>
+    <link>https://dimisik.github.io/projects/</link>
+    <description>Recent content in ⚙️ Research Projects on Dimitris Sikeridis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 06 Apr 2020 00:41:31 -0600</lastBuildDate>
+    
+	<atom:link href="https://dimisik.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>IoT-enabled Smart Cities</title>
+      <link>https://dimisik.github.io/projects/smart_city/</link>
+      <pubDate>Mon, 06 Apr 2020 00:41:11 -0600</pubDate>
+      
+      <guid>https://dimisik.github.io/projects/smart_city/</guid>
+      <description>IBM Project: Join Computing, Communication and Energy Control: Towards a Smart Appliance for a Smarter Campus</description>
+    </item>
+    
+    <item>
+      <title>Quantum-resistant Authentication</title>
+      <link>https://dimisik.github.io/projects/post_quantum/</link>
+      <pubDate>Mon, 06 Apr 2020 00:41:31 -0600</pubDate>
+      
+      <guid>https://dimisik.github.io/projects/post_quantum/</guid>
+      <description>Integration and Evaluation of Post-Quantum Authentication Algorithms in TLS 1.3
+Project in association with Cisco Systems, Inc.</description>
+    </item>
+    
+    <item>
+      <title>NM S.M.A.R.T. Grid</title>
+      <link>https://dimisik.github.io/projects/smart_grid/</link>
+      <pubDate>Mon, 06 Apr 2020 00:41:18 -0600</pubDate>
+      
+      <guid>https://dimisik.github.io/projects/smart_grid/</guid>
+      <description>NSF Project: The New Mexico SMART Grid Center: Sustainable, Modular, Adaptive, Resilient, and Transactive
+Research Objective 2: Networking and Communication Architecture Design</description>
+    </item>
+    
+  </channel>
+</rss>
